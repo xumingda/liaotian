@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.testin.analysis:testin-data:5.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/testin-data-5.0.3.aar/f15a2a58177bda6f2b04ad5dbfe41b74/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/testin-data-5.0.3.aar/f15a2a58177bda6f2b04ad5dbfe41b74/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
