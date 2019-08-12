@@ -227,6 +227,8 @@ public class ContactHttpClient {
                     }
                 } catch (JSONException e) {
                     callback.onFailed(-1, e.getMessage());
+                }catch (Exception e) {
+                    callback.onFailed(-1, e.getMessage());
                 }
             }
         });
